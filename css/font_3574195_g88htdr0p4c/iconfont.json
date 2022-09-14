@@ -1,0 +1,30 @@
+{
+  "id": "3574195",
+  "name": "小米官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3095146",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "4948950",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "8145817",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    }
+  ]
+}
